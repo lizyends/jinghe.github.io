@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +9,19 @@ redirect_from:
 ---
 
 Welcome to Jing' homepage!
+*<font size="2"><u>Updated on 13 August 2023</u></font>*
 
-Updated on 13 August 2023
+Jing He is an undergraduate student in Kuang Yaming Honors School, Nanjing University.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+E-mail: sssophie.he [at] gmail.com
 
-A data-driven personal website
+## Education & Experience
+- **B.S. in Computer Science**. Nanjing University. *Sep. 2020 - present*.
+
+## Teaching Experience
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -50,4 +58,9 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+<p align="center">
+  <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;s=200" async="async"></script>
+  <!-- <div style="display:inline-block;width:300px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=58fqm6u2ofs&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;br=5&amp;sx=0" async="async"></script></div> -->
+</p>
